@@ -3,6 +3,10 @@
 
 [![Build Status](https://github.com/joachimth/react-daisyui-template/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/joachimth/react-daisyui-template/actions)
 
+
+# Link to GH Pages
+[Open here](https://joachimth.github.io/react-daisyui-template/)
+
 My template for quickly creating new applications using React, Tailwind and daisyUI
 
 <!-- TODO: insert image here -->
