@@ -1,5 +1,7 @@
 # `react-daisyui-template`
 
+test
+
 My template for quickly creating new applications using React, Tailwind and daisyUI
 
 <!-- TODO: insert image here -->
