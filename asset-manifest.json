@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-daisyui-template/static/css/main.3ce62bf5.css",
+    "main.js": "/react-daisyui-template/static/js/main.b3522946.js",
+    "index.html": "/react-daisyui-template/index.html",
+    "main.3ce62bf5.css.map": "/react-daisyui-template/static/css/main.3ce62bf5.css.map",
+    "main.b3522946.js.map": "/react-daisyui-template/static/js/main.b3522946.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ce62bf5.css",
+    "static/js/main.b3522946.js"
+  ]
+}
