@@ -1,7 +1,10 @@
 {
   "name": "react-daisyui-template",
   "version": "0.1.0",
+  "author": "Joachim Thirsbro",
+  "license": "MIT",
   "private": true,
+  "homepage": "https://joachimth.github.io/react-daisyui-template",
   "dependencies": {
     "@heroicons/react": "^1.0.6",
     "daisyui": "^2.24.0",
@@ -12,13 +15,17 @@
     "react-masonry-css": "^1.0.16",
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
-    "theme-change": "^2.2.0"
+    "theme-change": "^2.2.0",
+    "gh-pages": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --passWithNoTests",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   },
   "eslintConfig": {
     "extends": [
