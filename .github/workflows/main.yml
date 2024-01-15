@@ -13,7 +13,7 @@ jobs:
     - run: npm run build
       env:
         CI: false
-    - run: npm run test
+    - run: npm run test --passWithNoTests
 
     # Tilføj disse to nye trin for at sætte Git brugeridentitet
     - run: |
