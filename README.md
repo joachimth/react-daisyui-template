@@ -1,6 +1,7 @@
 # `react-daisyui-template`
 
-test
+
+[![Build Status](https://github.com/joachimth/react-daisyui-template/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/joachimth/react-daisyui-template/actions)
 
 My template for quickly creating new applications using React, Tailwind and daisyUI
 
